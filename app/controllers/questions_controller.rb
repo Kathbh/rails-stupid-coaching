@@ -1,5 +1,6 @@
 class QuestionsController < ApplicationController
   def ask
+    #Define method
   end
 
   def answer
